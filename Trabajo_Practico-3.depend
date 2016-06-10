@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1464543923 source:c:\users\vcl\desktop\crap\c\tp3\magui\trabajo\trabajo_practico-3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<string.h>
+	"Funciones.h"
+
+1464543720 c:\users\vcl\desktop\crap\c\tp3\magui\trabajo\trabajo_practico-3\funciones.h
+
+1464608888 source:c:\users\vcl\desktop\crap\c\tp3\magui\trabajo\trabajo_practico-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<string.h>
+	"Funciones.h"
+
+1465517040 source:c:\users\vcl\desktop\trabajo_practico-3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<string.h>
+	"Funciones.h"
+
+1465409799 c:\users\vcl\desktop\trabajo_practico-3\funciones.h
+
+1465416084 source:c:\users\vcl\desktop\trabajo_practico-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<string.h>
+	"Funciones.h"
+
